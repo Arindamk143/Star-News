@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Star-News/static/css/main.e6c13ad2.css",
-    "main.js": "/Star-News/static/js/main.37e5bdfa.js",
+    "main.css": "/Star-News/static/css/main.a01dda65.css",
+    "main.js": "/Star-News/static/js/main.84cd4c4a.js",
     "static/js/787.16545c02.chunk.js": "/Star-News/static/js/787.16545c02.chunk.js",
+    "static/media/puja.jpg": "/Star-News/static/media/puja.ea6e0870124e01e3aaa4.jpg",
     "index.html": "/Star-News/index.html",
-    "main.e6c13ad2.css.map": "/Star-News/static/css/main.e6c13ad2.css.map",
-    "main.37e5bdfa.js.map": "/Star-News/static/js/main.37e5bdfa.js.map",
+    "main.a01dda65.css.map": "/Star-News/static/css/main.a01dda65.css.map",
+    "main.84cd4c4a.js.map": "/Star-News/static/js/main.84cd4c4a.js.map",
     "787.16545c02.chunk.js.map": "/Star-News/static/js/787.16545c02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.37e5bdfa.js"
+    "static/css/main.a01dda65.css",
+    "static/js/main.84cd4c4a.js"
   ]
 }
